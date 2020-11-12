@@ -6,6 +6,7 @@ public class hi {
 		
 		System.out.println("1. Hi..");
 		System.out.println("2. 두번째파일");
+		System.out.println("3. 세번째파일");
 
 	}
 
